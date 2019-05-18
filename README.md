@@ -12,9 +12,9 @@ Que la gente comience a plantar, en especial:
     * Para el desarrollo de nuestra app usamos java por ser un lenguaje nativo
 
 ### Costos
-Material | Costo | Tiempo
+Material|Costo|Tiempo
 ---------|-------|-------
-Laptop   | 12, 00| 24 hrs
-Sensor   | 100   | 2hrs
+Laptop|12, 00|24 hrs
+Sensor|100|2hrs
 
 
