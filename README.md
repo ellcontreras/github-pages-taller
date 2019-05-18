@@ -1,4 +1,4 @@
-# Planta.me :yum:
+# Planta.me 😀
 Mi proyecto consiste en una app rapida para cuidar una planta
 
 ## Que es lo que abarca
